@@ -47,7 +47,7 @@ optional arguments:
 
 ## Contact
 by mail: contact@n1nj4.eu  
-on Twitter: [Follow me on twitter](https://twitter.com/n1nj4sec)
+on X/Twitter: [Follow me on x/twitter](https://x.com/n1nj4sec)
 
 ## Special thanks
 Special thanks to @huntergregal for releasing his mimipenguin.sh idea and @gentilwiki for the awesome mimikatz tool
